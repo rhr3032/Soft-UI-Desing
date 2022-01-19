@@ -1,0 +1,23 @@
+body{
+    background: #fdfdfd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: #fdfdfd;
+    box-shadow: 20px 20px 35px #d0d0d0,
+                -20px -20px 30px #fff;
+}
